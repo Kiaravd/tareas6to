@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_correcto">Los datos son correctos</string>
+    <string name="vacio">Completa ambos campos</string>
+    <string name="pass_incorrecto">Contraseña inválida</string>
+    <string name="email_incorrecto">Usuario no registrado</string>
+</resources>
