@@ -15,6 +15,6 @@ class ActivityTwo : AppCompatActivity() {
         val email = intent.getStringExtra("Email")
 
         emailView.text = "Bienvenido, $email"
-        mensajeView.text = "Login exitoso"
+        mensajeView.text = getString(R.string.email_incorrecto)
     }
 }
